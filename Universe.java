@@ -37,7 +37,7 @@ public class Universe {
         //Andrómeda parece tener un billón de estrellas, crea una variable con esa cantidad.
 
         //Escribe aquí tu código
-        long andromeda = 2_000_000_000_000L;
+        long andromeda = 1_000_000_000_000L;
 
         //Corre este código y mira cuál es el problema
         //System.out.println("Hay " + milkyWay + andromeda + " de estrellas en Andrómeda y en la Vía Láctea juntas.");
